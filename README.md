@@ -9,6 +9,12 @@ Resolucion de ejercicios del capitulo 9 y 10 de principio de circuitos electrico
 
 **Objetivos:** 
 
+- Saber resolver problemas tanto del capitulo 9 como del capitulo 10.
+
+- Comprender el efecto del magnetismo sobre los circuitos electricos.
+
+- Saber usar correctamente la calculadora a la hora de resolver corrientes con bastantes tipos de estos usando matrices.
+
 **Marco teorico:** 
 
 Capitulo 9:
@@ -55,13 +61,11 @@ Capitulo 10
  
  **Conclusiones:**
  
- a) La resolucion del capitulo 5 nos ayudo a saber como se comportan los voltajes, corrientes y rewsistencias en un circuito en serie, como tambien saber como resolver problemas donde estan conectados las resistencias en serie, junto con las aplicaciones que tiene en la ley de ohm.
+ a) La resolucion del capitulo 9 ayudo a saber el comportamiento de las corrientes y voltajes en un sistema de ecuaciones para asi poder resolverlos mediante matrices, determinantes entre otros metodos, como tambien ayudo en el manejo correcto de la calculadora al ingresar datos de las corrientes como tambien de los voltajes requeridos.
  
- b) En el capitulo 5 tambien se pudo medir voltajes en el cual puede o no estar conectada a tierra, como tambien saber como localizar fallas tanto en un circuito en serie como tambien en paralelo.
+ b) En el capitulo 10 se pudo comprender el formulas y comportamientos sobre lo que es magnetismo y su resolucionl, como tambien lo que se refiere a induccion electromagnetica.
  
- c) En el capitulo 6 se pudo comprender cual es el comportamiento de los resistores, voltajes y corrientes en un circuito en paralelo; en este capitulo tambien se puede conocer las distintas plicaciones que tiene la ley de ohm en dicho circuito.
- 
- d) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
+ c) Se pudo saber como es la potencia en un circuito en paralelo, locaclizacion de fallas y aplicaciones que existen en este circuito antes mencionado.
  
   **Bibliografia:**
   
